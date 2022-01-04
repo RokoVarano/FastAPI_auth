@@ -1,0 +1,8 @@
+tutorial: https://www.youtube.com/watch?v=6hTRw_HK3Ts
+
+fastapi
+hypercorn
+python-multipart
+tortoise-orm[asyncpg]
+passlib
+pyjwt
